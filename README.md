@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://img.shields.io/github/actions/workflow/status/dvozicnivod/agronomix-oss/python-app.yml)](https://github.com/dvozicnivod/agronomix-oss/actions)  
 
-<img src="docs/screenshots/demo.png" width="600" alt="AgriFeedOSS Screenshot">  
+<img src="docs/screenshots/demo.png" width="600" alt="agronomix-oss Screenshot">  
 
 ## **Purpose**  
 Empower small-scale farmers with free, modular tools to:  
